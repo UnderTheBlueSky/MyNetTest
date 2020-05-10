@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{FDB0BB0B-4589-597E-F148-60B33C172667}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MyNetTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"UMG"
+			]
+		}
+	]
+}
